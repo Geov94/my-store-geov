@@ -1,7 +1,6 @@
 {
   "name": "my-store-geov",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,13 +12,23 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.0.0",
+    "eslint": "^8.0.1",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "nodemon": "^2.0.13"
+    "nodemon": "^2.0.13",
+    "prettier": "^2.4.1"
   },
   "dependencies": {
     "express": "^4.17.1",
     "faker": "^5.5.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geov94/my-store-geov.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Geov94/my-store-geov/issues"
+  },
+  "homepage": "https://github.com/Geov94/my-store-geov#readme",
+  "description": ""
 }
